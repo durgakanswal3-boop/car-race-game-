@@ -1,0 +1,6 @@
+print("--- KANSWAL MATH HELPER ---")
+a = int(input("पहला नंबर लिखें: "))
+b = int(input("दूसरा नंबर लिखें: "))
+print("जोड़ (Add):", a + b)
+print("घटाव (Subtract):", a - b)
+print("गुणा (Multiply):", a * b)
